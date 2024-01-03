@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    max-height: 240px;
+    gap: 16px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.url {
+    min-height: 16px;
+}
+
+.download-btn {
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 20px;
+
+}
